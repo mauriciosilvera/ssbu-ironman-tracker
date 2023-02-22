@@ -1,6 +1,6 @@
 # Super Smash Bros Ultimate iron man tracker.
 
-An iron man is a hard challenge in super smash bros community where you have to win an online 1vs1 fight with every character in the game without losing once. In this proyect you would be able to track your iron-man progress in an easy way.
+An iron man is a hard challenge in super smash bros community where you have to win an online 1vs1 fight with every character in the game without losing a single fight. In this proyect you would be able to track your iron-man progress in an easy way.
 
 ## Available Scripts
 
